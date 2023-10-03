@@ -1,4 +1,8 @@
 .About-Container{
-    background-color:brown;
+    background-color:beige;
     min-height: 100vh;
+}
+.bckg-img{
+    height: 500px;
+    width: 800px;
 }

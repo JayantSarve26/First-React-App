@@ -12,8 +12,12 @@
 
 .nav-menu{
     display: inline-block;
-    font-size: 30px;
+    font-size: 26px;
     margin: 0px 10px;
     color: white;
     margin-left:80px;
+    text-decoration: none;
+}
+.nav-menu:hover{
+    font-size: 30px;
 }

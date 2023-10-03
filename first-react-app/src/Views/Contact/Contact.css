@@ -1,5 +1,9 @@
 .Contact-Container{
-    background-color:green;
+    background-color:bisque;
     min-height: 100vh;
    
+}
+.bckg-img{
+    height: 500px;
+    width: 800px;
 }

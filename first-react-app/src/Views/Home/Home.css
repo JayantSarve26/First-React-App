@@ -1,5 +1,9 @@
 .Home-Container{
-    background-color:gold;
+    background-color:antiquewhite;
     min-height: 100vh;
    
+}
+.bckg-img{
+    height: 500px;
+    width: 800px;
 }

@@ -6,9 +6,9 @@ export default function Navbar(){
         <div className="navbar">
             <h1 className="nav-brand">ReactJS</h1>
 
-            <span className="nav-menu">Home</span>
-            <span className="nav-menu">About</span>
-            <span className="nav-menu">Contact</span>
+            <a className="nav-menu" href="/">Home</a>
+            <a className="nav-menu" href="/about">About</a>
+            <a className="nav-menu" href="/contact">Contact</a>
             </div>
     )
 }
