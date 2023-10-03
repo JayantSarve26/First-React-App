@@ -1,0 +1,19 @@
+.navbar{
+    background-color: teal;
+    padding: 7px;
+}
+
+.nav-brand{
+    display: inline-block;
+    color: black;
+    font-size: 30px;
+    margin-right: 300px;
+}
+
+.nav-menu{
+    display: inline-block;
+    font-size: 30px;
+    margin: 0px 10px;
+    color: white;
+    margin-left:80px;
+}
